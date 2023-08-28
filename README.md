@@ -92,14 +92,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,7 +205,7 @@ Project Link: [https://github.com/jeremaquai/blog](https://github.com/jeremaquai
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [Django 4 By Example by Antonio Mel](https://www.perlego.com/book/3722936/django-4-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-4th-edition-pdf)
 * []()
 * []()
 
